@@ -35,3 +35,6 @@ def print_hi():
 이건
 
 줄 1칸 띄우기
+
+여기까지 봤는데 모르면 그냥 [이거](https://gist.github.com/ihoneymon/652be052a0727ad59601) 보셈
+
